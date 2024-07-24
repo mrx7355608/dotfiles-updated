@@ -14,14 +14,13 @@ config.enable_tab_bar = false
 config.window_decorations = "TITLE | RESIZE"
 
 config.window_background_opacity = 1
-config.macos_window_background_blur = 10
 
 config.background = {
 	{
 		source = {
-			File = "D:/Downloads/wallpapers/wp4.png",
+			File = "D:/Downloads/wallpapers/wp.jpg",
 		},
-		hsb = { brightness = 0.02 },
+		hsb = { brightness = 0.03 },
 	},
 }
 
